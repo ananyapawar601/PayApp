@@ -1,10 +1,10 @@
-To set up the Paytm MERN project from the GitHub repository you mentioned, follow these detailed steps:
+To set up the PayApp MERN project from the GitHub repository you mentioned, follow these detailed steps:
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sumana10/paytm-mern.git
-cd paytm-mern
+git clone https://github.com/ananyapawar601/PayApp.git
+cd PayApp
 ```
 
 ### 2. Set Up the Backend
